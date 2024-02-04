@@ -1,0 +1,12 @@
+.colors-cont {
+    margin-left: 10px;
+}
+
+.colors-title {
+    margin-top: 20px;
+    margin-left: -10px;
+}
+
+.all {
+    background: linear-gradient(blue, crimson);
+}
